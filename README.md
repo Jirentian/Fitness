@@ -274,7 +274,9 @@
 
 ---
 
+<!--
 1. Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 316万关注，这人做的视频有点意思，比如去世界上最昂贵的健身房，尝试健身网红的训练计划，全部都是 Fitness/Gym 主题的内容。
+-->
 1. eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
 1. Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
 1. Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
@@ -319,8 +321,10 @@
 1. Upright Health: [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。
 1. Bob & Brad: [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。
 
+<!--
 ### 其他
 1. 动物流: [Youtube](https://www.youtube.com/@AnimalFlow/videos) 6万粉。
+-->
 </details>
 
 <!--
@@ -434,6 +438,10 @@ BMI >= 28 是肥胖
 此列表有我个人主观，所以很多"名人"和"网红"不在表里。   
 筛选标准是 "教学类视频多，质量普遍较高"。      
 排序比较主观，希望这些视频创作者本人看到此表不要介意。  
+
+## 个人建议
+你一定要对自己的时间和注意力非常的挑剔。  
+你是来学会营养，学会健身，然后去做，去改变你的身体，不要浪费时间看健身相关的任何娱乐内容。最好的例子是 Will Tennyson 的视频，其他例子比如健身圈的人物和梗，你一定要忽略这些东西，专注你自己。
 
 <!-- 
 本列表不收录备赛日常,顶尖运动员日常分享,搞笑/抽象,生活类,有争议,以及其他和健身教学无关内容，比如：
